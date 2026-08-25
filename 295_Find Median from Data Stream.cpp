@@ -31,7 +31,7 @@ public:
             smallerpq.pop();    //1 1 1 1 2 2 2 2 3 3
         }
         //
-        else if(greaterpq.size() > smallerpq.size() > 1){
+        else if(greaterpq.size() > smallerpq.size() + 1){   //greater bada toh hona chahiye but smaller+1 se jada niii bss
             smallerpq.push(greaterpq.top());
             greaterpq.pop();    // 1 2 2 3 3 3 3 3 3 3
         }
