@@ -26,11 +26,15 @@ public:
 
 
         example -
-               1
-            2     3
+               1 ->diameter=5
+              /  \
+            2     3 ->diameter=6(answer)
+                 /  \
                 4    5
-              6        7 
-             8           9
+               /      \ 
+              6        7
+             /          \ 
+            8            9
 
              the root node is not maximum diameter it is 3(node).
 
