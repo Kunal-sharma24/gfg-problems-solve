@@ -11,6 +11,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kunal-sharma24/gfg-problems-solve/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Kunal-sharma24/gfg-problems-solve/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -19,8 +20,17 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kunal-sharma24/gfg-problems-solve/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Kunal-sharma24/gfg-problems-solve/tree/master/0222-count-complete-tree-nodes) |
 ## DP on Trees
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kunal-sharma24/gfg-problems-solve/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Kunal-sharma24/gfg-problems-solve/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Kunal-sharma24/gfg-problems-solve/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
